@@ -24,10 +24,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/anmolcodes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="anmolcodes" height="30" width="40" /></a>
-<a href="https://twitter.com/lordofthesimpls" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lordofthesimpls" height="30" width="40" /></a>
+<a href="https://twitter.com/lordofthesimps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lordofthesimps" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anmolarora1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anmolarora1" height="30" width="40" /></a>
 <a href="https://instagram.com/anmoltookthese" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="anmoltookthese" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/covidify" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="covidify" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC6G3_OTh4k3YPE1iGaI3RRA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="covidify" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
