@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/lordofthesimps" target="blank"><img src="https://img.shields.io/twitter/follow/lordofthesimpls?logo=twitter&style=for-the-badge" alt="lordofthesimps" /></a> </p>
 
-- 🔭 I’m currently working on [COVIDIFY](https://covidify.netlify.app/)
+- 🔭 I’m currently working on [TEDxBennettUniversity](https://tedxbennettuniversity.netlify.app/)
 
 - 🌱 I’m currently learning **JavaScript and it's Frameworks**
 
