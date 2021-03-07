@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anmolarora.netlify.app/](https://anmolarora.netlify.app/)
 
-- 💬 Ask me about **HTML & CSS**
+- 💬 Ask me about **FRONT END WEB DEVELOPMENT**
 
 - 📫 How to reach me **mr.anmolarora@outlook.com**
 
