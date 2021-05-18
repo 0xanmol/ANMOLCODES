@@ -33,8 +33,8 @@
 <p align="left">
 <a href="https://dev.to/anmolcodes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="anmolcodes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anmolarora1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="anmolarora1/" height="30" width="40" /></a>
-<a href="https://instagram.com/anmoltookthese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="anmoltookthese" height="30" width="40" /></a>
-<a href="https://medium.com/@anmolcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@anmolcodes" height="30" width="40" /></a>
+<a href="https://instagram.com/anmoltookthese" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="anmoltookthese" height="30" width="40" /></a>
+<a href="https://medium.com/@anmolcodes" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="@anmolcodes" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/swagl0rd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swagl0rd" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anmolarora10" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="anmolarora10" height="30" width="40" /></a>
 </p>
