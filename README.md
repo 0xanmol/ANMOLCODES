@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mr.anmolarora@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14wEeEyuHeDaJcojb8D1RK8jGWwcBJ6cG/view?usp=sharing](https://drive.google.com/file/d/14wEeEyuHeDaJcojb8D1RK8jGWwcBJ6cG/view?usp=sharine)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1ADFmNeIRGzD2yEzzmMLoQ5Er1IXAFlWt/view?usp=sharing)
 
 - ⚡ Fun fact **I completed 100DaysOfFitness**
 
