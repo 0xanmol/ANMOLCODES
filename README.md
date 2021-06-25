@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Front End Web Dev**
 
-- 📫 How to reach me **mr.anmolarora@outlook.com**
+- 📫 How to reach me **[mr.anmolarora@outlook.com](mailto:mr.anmolarora@outlook.com)**
 
 - 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1ADFmNeIRGzD2yEzzmMLoQ5Er1IXAFlWt/view?usp=sharing)
 
