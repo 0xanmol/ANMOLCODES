@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmolcodes" alt="anmolcodes" /></a> </p>
 
-- 🔭 I’m currently working on [WarAgainstCOVID](http://waragainstcovid.org/)
+- 🔭 I’m currently exploring [Web3]()
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **ReactJs**
 
-- 👯 I’m looking to collaborate on [WarAgainstCOVID](http://waragainstcovid.org/)
+- 👯 I’m looking to collaborate on [smart contracts]()
 
-- 🤝 I’m looking for help with **Node.js and Selenium**
+- 🤝 I’m looking for help with **finding an internship in Web3**
 
 - 👨‍💻 All of my projects are available at [https://anmolarora.netlify.app/](https://anmolarora.netlify.app/)
 
 - 📝 I regularly write articles on [https://anmolcodes.medium.com/](https://anmolcodes.medium.com/)
 
-- 💬 Ask me about **Front End Web Dev**
+- 💬 Ask me about **Full Stack Web Dev**
 
 - 📫 How to reach me **[mr.anmolarora@outlook.com](mailto:mr.anmolarora@outlook.com)**
 
