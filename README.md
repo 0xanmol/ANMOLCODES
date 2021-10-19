@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmolcodes" alt="anmolcodes" /></a> </p>
 
-- 🔭 I’m currently exploring [Web3]()
+- 🔭 I’m currently exploring **Web3**
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👯 I’m looking to collaborate on [smart contracts]()
+- 👯 I’m looking to collaborate on **smart contracts & DApps**
 
 - 🤝 I’m looking for help with **finding an internship in Web3**
 
