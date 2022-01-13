@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **smart contracts & DApps**
 
-- 🤝 I’m looking for help with **finding an internship in Web3**
+- 🤝 I’m looking for help with **DeFi's and lending protocols**
 
 - 👨‍💻 All of my projects are available at [https://anmolarora.netlify.app/](https://anmolarora.netlify.app/)
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **[mr.anmolarora@outlook.com](mailto:mr.anmolarora@outlook.com)**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1rJm_3bW0w9tJv6Ob93Ro3AV9mhN_R5YB/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1s1OgtP7IRiWRhYKfXX_s2VigtIcEPy0x/view?usp=sharing)
 
 - ⚡ Fun fact **I completed 100DaysOfFitness**
 
