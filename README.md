@@ -1,28 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anmol Arora</h1>
-<h3 align="center">An average human that refuses to give up | Delusional optimist</h3>
+<h1 align="center">Doing DevRel things</h1>
+<h3 align="center">An average human that refuses to give up | Generalised Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolcodes&label=Stalkers&color=0e75b6&style=flat" alt="anmolcodes" /> </p>
 
 <a href="https://github-profile-trophy.vercel.app/?username=anmolcodes" rel="nofollow"><img src="https://camo.githubusercontent.com/841086315c1e539a10fe125dd29dc05ef44686ca6969e1c6aa14db46a8efb4eb/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d746b6f686c69267468656d653d6461726b687562266e6f2d62673d7472756526726f773d3226636f6c756d6e3d33266d617267696e2d773d3135266d617267696e2d683d3135" alt="streak" data-canonical-src="https://github-profile-trophy.vercel.app/?username=anmolcodes&amp;theme=darkhub&amp;no-bg=true&amp;row=1&amp;column=6&amp;margin-w=15&amp;margin-h=15" style="max-width: 100%;"></a>
-- 🔭 I’m currently exploring **Web3**
-
-- 🌱 I’m currently learning **ReactJs**
-
-- 👯 I’m looking to collaborate on **smart contracts & DApps**
-
-- 🤝 I’m looking for help with **DeFi's and lending protocols**
-
-- 👨‍💻 All of my projects are available at [https://anmolarora.netlify.app/](https://anmolarora.netlify.app/)
-
-- 📝 I regularly write articles on [https://anmolcodes.medium.com/](https://anmolcodes.medium.com/)
-
-- 💬 Ask me about **Full Stack Web Dev**
-
-- 📫 How to reach me **[mr.anmolarora@outlook.com](mailto:mr.anmolarora@outlook.com)**
-
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1qyp9590-0j2AXSfq80rJtKaXDpYKHdnw/view?usp=sharing)
-
-- ⚡ Fun fact **I completed 100DaysOfFitness**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
